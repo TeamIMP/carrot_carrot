@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/carrot_carrot/static/css/main.d90e8d8c.css",
-    "main.js": "/carrot_carrot/static/js/main.c71691fd.js",
+    "main.css": "/carrot_carrot/static/css/main.5e65b0d1.css",
+    "main.js": "/carrot_carrot/static/js/main.fd78b261.js",
     "index.html": "/carrot_carrot/index.html",
-    "main.d90e8d8c.css.map": "/carrot_carrot/static/css/main.d90e8d8c.css.map",
-    "main.c71691fd.js.map": "/carrot_carrot/static/js/main.c71691fd.js.map"
+    "main.5e65b0d1.css.map": "/carrot_carrot/static/css/main.5e65b0d1.css.map",
+    "main.fd78b261.js.map": "/carrot_carrot/static/js/main.fd78b261.js.map"
   },
   "entrypoints": [
-    "static/css/main.d90e8d8c.css",
-    "static/js/main.c71691fd.js"
+    "static/css/main.5e65b0d1.css",
+    "static/js/main.fd78b261.js"
   ]
 }
